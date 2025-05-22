@@ -13,7 +13,7 @@ This project uses MySQL for persistent data storage and demonstrates Django’s 
 
 ## Preview
 
-![Home](./assets/home-view.gif)
+![Demo](./assets/view.gif)
 
 ## License
 
